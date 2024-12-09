@@ -8,7 +8,10 @@ def check_password_complexity(password):
         "uppercase": any(char.isupper() for char in password),
         "lowercase": any(char.islower() for char in password),
         "digit": any(char.isdigit() for char in password),
-        "special": bool(re.search(r"[!@#$%^&*(),.?\":{}|<>]", password))
+        "special": bool(re.search(r"[!@#$%^&*(),.?\":{}|<>]", password)),
+        "no_repeated_characters": len(password) == len(set(password)),
+        "no_common_passwords": password not in ["password", "123456", "qwerty"],
+        "no_consecutive_characters": not any(ord(password[i]) + 1 == ord(password[i + 1]) for i in range(len(password) - 1)),
     }
     
     # Calculate score
@@ -27,6 +30,12 @@ def check_password_complexity(password):
         feedback.append("Password must include at least one digit.")
     if not criteria["special"]:
         feedback.append("Password must include at least one special character.")
+    if not criteria["no_common_passwords"]:
+        feedback.append("The password contains repeated characters.")
+    if not criteria["no_consecutive_characters"]:
+        feedback.append("The password contains common passowrds.")
+    if not criteria["no_repeated_characters"]:
+        feedback.append("The password contains repeated characters.")
 
     return strength, feedback
 
