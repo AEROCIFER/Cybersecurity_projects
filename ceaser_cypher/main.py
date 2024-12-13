@@ -1,4 +1,4 @@
-from Ceaser_cypher.modules.file_processing import *
+from file_processing import *
 import argparse
 import sys
 
