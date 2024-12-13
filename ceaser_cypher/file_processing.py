@@ -1,4 +1,4 @@
-from Ceaser_cypher.modules.ceaser import *
+from ceaser import *
 
 def file_processing(input_file, output_file, shift, mode):
     try:
