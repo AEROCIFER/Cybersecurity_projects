@@ -1,0 +1,1284 @@
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.227.110, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode characters in position 14-15: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 35.207.229.212, Destination: 192.168.0.120
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.229.212
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------
+Protocol: UDP, Source: 192.168.0.120, Destination: 35.207.227.110
+Payload could not be processed: 'charmap' codec can't encode character '\ufffd' in position 14: character maps to <undefined>
+--------------------------------------------------

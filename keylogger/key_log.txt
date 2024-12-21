@@ -1,0 +1,1 @@
+Alt+Key.alt_l Alt+Key.tab Alt+Key.alt_l Alt+Key.tab Alt+Key.alt_l Alt+Key.tab Ctrl+Key.ctrl_l Ctrl+ [Key.esc] 
